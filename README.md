@@ -32,6 +32,8 @@ Event Lifecycle Management: Draft, submit, and manage events from a single inter
 Automated Attendance: Native QR Scanner to verify student entries and update attendance databases instantly.
 
 📸 Product Gallery
+Product Photos available in the Product Galary Folder
+
 💻 Technical Stack
 Frontend: HTML5, CSS3 (Grid & Flexbox), JavaScript (ES6+)
 
